@@ -1,0 +1,9 @@
+ import javazoom.jl.player.StdPlayer;
+
+ public class Wave {
+ public static final SAMPLERATE = 44100;
+ private double[] leftchan; // wave channels
+ private double[] rightchan;
+ 
+ 
+ }
